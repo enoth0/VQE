@@ -5,3 +5,4 @@ qiskit-aer==0.17.1
 qiskit-algorithms==0.3.0
 qiskit-nature==0.7.2
 pyscf==2.9.0
+qiskit-aer-gpu-cu11==0.17.0
